@@ -29,6 +29,7 @@ export const GlobalStyled = createGlobalStyle`
   }
 
   a {
+    display: block;
     text-decoration: none;
     color: white;
   }

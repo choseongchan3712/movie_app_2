@@ -16,7 +16,7 @@
 [x] npm i styled-reset
 [] npm i react-spinners
 [] swiper
-[] font-awesome
+[x] font-awesome
 [] npm i react-hook-form
 [] helmet-async
 [] react icons
