@@ -11,7 +11,7 @@
 
 # 설치항목
 [x] npm i react-router-dom
-[] npm install node-fetch@2
+[x] npm install node-fetch@2
 [x] npm i styled-components
 [x] npm i styled-reset
 [] npm i react-spinners
